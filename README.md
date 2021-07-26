@@ -4,15 +4,15 @@ This repo contains an implementation to Erdős–Rényi model to test it out as 
 
 ## Main Purpose
 We will use graphs with 1000 nodes and check the graph's characteristics :<br/>
-1.connectivity<br/>
-2.diameter<br/>
-3.isolated vertex <br/>
+1. connectivity<br/>
+2. diameter<br/>
+3. isolated vertex <br/>
 <br/>
 
 - Write a function to build a random graph with a given connectivity probability - p (0-1)<br/>
 - Using a adjacency list to represent the graph<br/>
 - Impelment functions for each characteristic <br/>
-- Impelment bfs algorithm to find the diameter <br/>
+- Impelment bfs - breadth first seach algorithm to find the diameter <br/>
 - Run on 500 Graph's with different connectivity chances and look for conclusions.<br/>
 - Make sure program runs in less than 3-4 hours depends on hardware<br/>
 

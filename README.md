@@ -1,6 +1,6 @@
 # Erdős–Rényi model - Random graph's
 This repo contains an implementation to Erdős–Rényi model to test it out as a class assignment.<br/>
-### c++<br/>
+### C++<br/>
 
 ## Main Purpose
 We will use graphs with 1000 nodes and check the graph's characteristics :<br/>
@@ -14,6 +14,7 @@ We will use graphs with 1000 nodes and check the graph's characteristics :<br/>
 - Impelment functions for each characteristic <br/>
 - Impelment bfs algorithm to find the diameter <br/>
 - Run on 500 Graph's with different connectivity chances and look for conclusions.<br/>
+- Make sure program runs in less than 3-4 hours depends on hardware<br/>
 
 ## Thershold
 - To check connectivity we'll define Threshold = lnv(v)/v if the threshold is less than p - the graph should be connected.<br/>
